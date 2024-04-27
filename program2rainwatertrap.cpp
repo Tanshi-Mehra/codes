@@ -37,7 +37,7 @@ int main()
         }
     }
     cout<<water_trap;
-    // rain water trapping
+    // water trapping problem
 
 
 
