@@ -38,7 +38,7 @@ int nofisland(vector<vector<char>>&adj)
         for(int col=0;col<m;col++)
         {
             
-            if(!vis[row][col]&&adj[row][col]=='1')
+            if(!vis[row][col] && adj[row][col]=='1')
             {
                  count++;
                 bfs(row,col,vis,adj);
