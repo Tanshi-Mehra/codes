@@ -52,7 +52,7 @@ int main()
         cout<<"cycledetected"<<endl;
     }
     else{
-        cout<<"No cycle detected";
+        cout<<"No cycle detected"<<endl;
     }
     return 0;
 }
